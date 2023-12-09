@@ -2,8 +2,14 @@
 
 # About Me
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function..
- 
 
+### Forcused on
+- Delightful user experiences
+- Intuitive & responsive interfaces
+- Clean & maintainable code
+- Being a team player and a strong communicator.
+ 
+ 
 # 🧨Current Github Activity Streak
 
 <p align="center">
