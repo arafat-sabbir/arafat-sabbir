@@ -1,16 +1,37 @@
-### Hi there 👋
+![The San Juan Mountains are beautiful!](https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains")
 
-<!--
-**arafat-sabbir/arafat-sabbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧨Current Github Activity Streak
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatshabbir2&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafatshabbir2&theme=github_dark)
+
+</div>
+
+
+# 🔎 Reach me out
+
+[![arafatsabbir2 Current Stats on github](https://i.ibb.co/S7R1Z4t/icons8-linkedin-128-1.png "arafatsabbir2 Current Stats on github")](https://www.linkedin.com/in/arafat-sabbir/)
+[![An old rock in the desert](https://i.ibb.co/QPJZHyb/icons8-twitterx-128.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/arafatshabbir8)
+
+# 💻 Technologies that I know
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arafat-sabbir/">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,mongodb,express,firebase" />
+  </a>
+</p
+
+# 👀 Current overview
+
+### 🗒 I'm learning Next js
+
+### 🗒 I'm Learning Gsap For Animation
+
+### 🗒 I'm Learning Communicative English For Better Communication
+
+>
