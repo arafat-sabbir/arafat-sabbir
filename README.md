@@ -1,5 +1,9 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains")
 
+# About Me
+### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function..
+ 
+
 # 🧨Current Github Activity Streak
 
 <p align="center">
@@ -15,8 +19,12 @@
 
 # 🔎 Reach me out
 
+<div align="center">
+
 [![arafatsabbir2 Current Stats on github](https://i.ibb.co/S7R1Z4t/icons8-linkedin-128-1.png "arafatsabbir2 Current Stats on github")](https://www.linkedin.com/in/arafat-sabbir/)
 [![An old rock in the desert](https://i.ibb.co/QPJZHyb/icons8-twitterx-128.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/arafatshabbir8)
+
+</div>
 
 # 💻 Technologies that I know
 
@@ -34,4 +42,4 @@
 
 ### 🗒 I'm Learning Communicative English For Better Communication
 
->
+
