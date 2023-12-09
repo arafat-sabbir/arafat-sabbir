@@ -67,10 +67,13 @@
 ### [Live Link](https://skill-exchange-port.web.app/ "The best search engine for privacy")
 ### Overview
 
-- ### This is a freelance Website People Can Add Job Here And Other People Can Bid On those Job.
-- ### User Can Add Job And Bid Other User Job..
-- ### User Can Manage The Job He/She bidded For.
-- ### User Can Manage His Job Which Others Are Bidded For.
-- ### User Can Check Their Job Status..
+- #### This is a freelance Website People Can Add Job Here And Other People Can Bid On those Job.
+- #### User Can Add Job And Bid Other User Job..
+- #### User Can Manage The Job He/She bidded For.
+- #### User Can Manage His Job Which Others Are Bidded For.
 
-# 
+# Eventify (Event Planner And Trainer)
+### [Live Link](https://eventify-5a26a.web.app/ "The best search engine for privacy")
+- #### This is a Event Management and Training Website.
+- #### User Can See All the Event and Training That We Offer..
+- #### User Can See A Proper Detail Of Those Event And Training.
