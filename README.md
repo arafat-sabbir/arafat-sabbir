@@ -32,8 +32,8 @@
 
 <div align="center">
 
-[![arafatsabbir2 Current Stats on github](https://i.ibb.co/S7R1Z4t/icons8-linkedin-128-1.png "arafatsabbir2 Current Stats on github")](https://www.linkedin.com/in/arafat-sabbir/)
-[![An old rock in the desert](https://i.ibb.co/QPJZHyb/icons8-twitterx-128.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/arafatshabbir8)
+[![arafatsabbir2 Current Stats on github](https://i.ibb.co/7RvkSmq/icons8-linkedin-96.png "arafatsabbir2 Current Stats on github")](https://www.linkedin.com/in/arafat-sabbir/)
+[![An old rock in the desert](https://i.ibb.co/HnptcvH/icons8-twitter-96.png "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/arafatshabbir8)
 
 </div>
 
