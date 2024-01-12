@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-sabbir&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-sabbir&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
 
@@ -72,8 +72,10 @@
 - #### User Can Manage The Job He/She bidded For.
 - #### User Can Manage His Job Which Others Are Bidded For.
 
-## 🖍 Eventify (Event Planner And Trainer)
-### [Live Link](https://eventify-5a26a.web.app/ "The best search engine for privacy")
-- #### This is a Event Management and Training Website.
-- #### User Can See All the Event and Training That We Offer..
-- #### User Can See A Proper Detail Of Those Event And Training.
+## 🖍 Gadget Gear (Gadget Shop)
+### [Live Link](https://gadget-gear-hub.web.app/ "The best search engine for privacy")
+- #### A Gadget Shop Website.
+- #### User Can See Product Based On Category..
+- ### User Can See Product Details
+- ### User Can Add Product To Cart
+- #### Admin Can Add Product And Manage User And Product.
