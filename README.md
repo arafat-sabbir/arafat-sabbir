@@ -1,10 +1,10 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains")
-
+![](https://komarev.com/ghpvc/?username=arafat-sabbir)
 # About Me
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function..
 ## Currently Working On  [Perceptron](https://www.perceptron.site/ "Mern Stack Based Agency")
 
-### Forcused on
+### Focused on
 - ### Delightful user experiences
 - ### Intuitive & responsive interfaces
 - ### Clean & maintainable code
