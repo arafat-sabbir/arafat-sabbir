@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-sabbir&theme=github-dark&hide_border=true)](https://git.io/streak-stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-sabbir&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=250)](https://git.io/streak-stats" />
 </p>
 
 
