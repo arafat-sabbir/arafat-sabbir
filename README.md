@@ -1,4 +1,5 @@
-![The San Juan Mountains are beautiful!](https://i.ibb.co/wrZFmRx/Add-a-heading-1.png "San Juan Mountains")
+<img src="https://i.ibb.co/wrZFmRx/Add-a-heading-1.png" alt="Sabbir's Portfolio" style="width:100%; height:auto;">
+
 
 ![Current overview](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
 
