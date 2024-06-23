@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/wrZFmRx/Add-a-heading-1.png" alt="Sabbir's Portfolio" style="width:100%; height:auto;">
+<img src="https://i.ibb.co/wrZFmRx/Add-a-heading-1.png" alt="Sabbir's Portfolio" style="width:100%; height:100%;">
 
 
 ![Current overview](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
