@@ -23,8 +23,7 @@
 ## 🧨 Current Github Activity Streak
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat-sabbir&theme=github-dark&hide_border=true" />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-sabbir&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=250" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-sabbir&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=250" />
 </p>
 
 <div align="center">
