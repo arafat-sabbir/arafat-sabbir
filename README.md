@@ -1,6 +1,7 @@
-![The San Juan Mountains are beautiful!]([https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains](https://i.ibb.co/wrZFmRx/Add-a-heading-1.png)")
+![The San Juan Mountains are beautiful!](https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains")
 
-![](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
+![Current overview](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
+
 # About Me
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function..
 ## Currently Working On  [Perceptron](https://www.perceptron.site/ "Mern Stack Based Agency")
