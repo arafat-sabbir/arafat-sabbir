@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://i.ibb.co/jyqrLTG/coming-soon-3.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co/wrZFmRx/Add-a-heading-1.png "San Juan Mountains")
 
 ![Current overview](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
 
