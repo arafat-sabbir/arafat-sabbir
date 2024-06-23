@@ -1,5 +1,8 @@
-<img src="https://i.ibb.co/wrZFmRx/Add-a-heading-1.png" alt="Sabbir's Portfolio" style="width:100%; height:100%;">
+# My Portfolio
 
+<div style="width: 100%; max-width: 800px; margin: auto;">
+    <img src="https://i.ibb.co/wrZFmRx/Add-a-heading-1.png" alt="San Juan Mountains" style="width: 100%; height: auto;">
+</div>
 
 ![Current overview](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
 
@@ -13,24 +16,17 @@
 - ### Clean & maintainable code
 - ### Being a team player and a strong communicator.
  
-
 # 🧨Current Github Activity Streak
-
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafat-sabbir&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=250)](https://git.io/streak-stats" />
 </p>
-
-
 
 <div align="center">
 
 ![Current overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafat-sabbir&theme=github_dark)
 
 </div>
-
-
-
 
 # 🔎 Reach me out
 
