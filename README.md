@@ -9,7 +9,7 @@
 
 ### I'm a dedicated MERN stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function.
 
-## Currently Working On [Softronixs](https://https://softronixs.com/ "Software Development Agency")
+## Currently Working On [Softronixs](https://softronixs.com/ "Software Development Agency")
 
 ### Focused on:
 
