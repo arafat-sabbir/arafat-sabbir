@@ -1,13 +1,13 @@
 # Sabbir's Portfolio
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/wrZFmRx/Add-a-heading-1.png "Sabbir's Portfolio")
+![The San Juan Mountains are beautiful!](https://i.ibb.co.com/J5R54mm/Copy-of-Add-a-heading.png "Sabbir's Portfolio")
 ![](https://komarev.com/ghpvc/?username=arafat-sabbir&color=brightgreen)
 
 ---
 
 ## About Me
 
-### I'm a dedicated STACK stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function.
+### I'm a dedicated Full stack developer who combines technical proficiency with a keen eye for design, creating websites that not only meet but exceed user expectations in terms of both form and function.
 
 
 ### Focused on:
